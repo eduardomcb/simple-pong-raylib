@@ -10,6 +10,10 @@
 
 ---
 
+## Demonstração
+
+<video width="630" height="300" src="https://github.com/user-attachments/assets/62f48423-103b-467e-acc9-d8c0ba7469be"></video>
+
 ## Características
 
 - Jogabilidade clássica de Pong com controles responsivos
