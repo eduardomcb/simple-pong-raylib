@@ -10,6 +10,11 @@
 
 ---
 
+## Demonstration
+
+<video width="630" height="300" src="https://github.com/user-attachments/assets/62f48423-103b-467e-acc9-d8c0ba7469be"></video>
+
+
 ## Features
 
 - Classic Pong gameplay with responsive controls
